@@ -1,0 +1,10 @@
+{
+	"id": "claude-log-summarizer",
+	"name": "Claude Log Summarizer",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Automatically summarize Claude Code conversation logs and insert them into Daily Notes as work reports",
+	"author": "motokiendo",
+	"authorUrl": "https://github.com/motokiendo",
+	"isDesktopOnly": false
+}

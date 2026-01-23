@@ -57,6 +57,7 @@ export interface GLMApiResponse {
 		message: {
 			role: string;
 			content: string;
+			reasoning_content?: string;
 		};
 		finish_reason: string;
 	}>;
